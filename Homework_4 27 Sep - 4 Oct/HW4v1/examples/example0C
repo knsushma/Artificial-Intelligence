@@ -1,0 +1,18 @@
+java RingTreblecross 13 4 0
+Initial :  |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9| 10| 11| 12|
+Choose Next Move: 7
+Player  :  |   |   |   |   |   |   |   | X |   |   |   |   |   | 
+Computer:  |   |   |   |   |   | X |   | X |   |   |   |   |   | 
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9| 10| 11| 12|
+Choose Next Move: 0
+Player  :  | X |   |   |   |   | X |   | X |   |   |   |   |   | 
+Computer:  | X |   |   |   |   | X |   | X |   |   |   | X |   | 
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9| 10| 11| 12|
+Choose Next Move: 3
+Player  :  | X |   |   | X |   | X |   | X |   |   |   | X |   | 
+Computer:  | X |   |   | X |   | X |   | X |   | X |   | X |   | 
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9| 10| 11| 12|
+Choose Next Move: 2
+Player  :  | X |   | X | X |   | X |   | X |   | X |   | X |   | 
+Computer:  | X | X | X | X |   | X |   | X |   | X |   | X |   | 

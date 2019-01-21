@@ -1,0 +1,15 @@
+Successful compile 20.000
+add3: timeout 
+add8: maxOPENSize mismatch,
+add11: maxOPENSize mismatch,
+add14: goalCheckTimes mismatch,maxOPENSize mismatch,maxCLOSEDSize mismatch,
+add32: maxOPENSize mismatch,
+add35: goalCheckTimes mismatch,maxOPENSize mismatch,maxCLOSEDSize mismatch,
+add36: maxOPENSize mismatch,
+add38: maxOPENSize mismatch,
+add41: timeout 
+add42: timeout 
+add44: timeout 
+add45: timeout 
+add70: timeout 
+Test cases 67.440

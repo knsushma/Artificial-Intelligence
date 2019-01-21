@@ -1,0 +1,27 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww21780\viewh13300\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\qj\partightenfactor0
+
+\f0\b\fs28 \cf0 \AppleTypeServicesU1 Statement:
+\b0   AI  technologies  promise  to  increase  the  safe  and  reliable  use  and  utility  of home/service robots.\
+\
+\
+      The paper emphasizes on the safety and reliability concerns associated with the use and utility of home/service robots fostered by AI technologies. Despite difficulties involved in creating reliable and market-ready hardware (robots), AI promises the safe utility of some of the special purpose robots for package delivery, offices cleaning, better human interaction and security enhancement.\
+\
+      There are various challenges associated in realising effectively featured (increased reliable and safe) robots apart from premier expenses and technical constraints which are continuing to limit the commercial opportunities for the foreseeable future. Some of them are as follow:\
+\
+\pard\tx220\tx720\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\li720\fi-720\pardirnatural\qj\partightenfactor0
+\ls1\ilvl0\cf0 \AppleTypeServicesU0 {\listtext	\uc0\u8226 	}\AppleTypeServicesU1 Malfunctioning of robots: This may lead to prodigious chaos, on a serious note the potential consequences may include injuries, hurting people or death (at the worst scenario). Various cases have been reported on this, one such is "Malfunctioning robot killed Michigan woman at work" (Reported and published on March 15, 2017), This is truly a question on the safety of using home/service robots.\
+\ls1\ilvl0\AppleTypeServicesU0 {\listtext	\uc0\u8226 	}\AppleTypeServicesU1 Handling dangerous situation: Robots cannot respond in times of danger as humans can. This is a challenge on the reliability of home/service robots.\
+\ls1\ilvl0\AppleTypeServicesU0 {\listtext	\uc0\u8226 	}\AppleTypeServicesU1 ROI of business/service: Return on Investment of any business/services ran by robots suffers from low throughput owing to operations relying on too many robots.\
+\ls1\ilvl0\AppleTypeServicesU0 {\listtext	\uc0\u8226 	}\AppleTypeServicesU1 Crowdsourcing and human interaction: Robots can certainly perform their prescribed tasks but will need human assistance in any unexpected situations. Again, a question on the reliability of robots!\
+\ls1\ilvl0\AppleTypeServicesU0 {\listtext	\uc0\u8226 	}\AppleTypeServicesU1 The Lazy We: Humans become lazy by depending only upon robots for tasks to complete.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\qj\partightenfactor0
+\cf0 \
+      The most important concern while using robots in home/work is safety which is a very big challenge for AI technologies to outclass. One good example/case which defeated the safety purpose of growing AI technologies is the Facebook's Artificial Intelligence Robots that were shut down after they started talking to each other in their own language. The robots were instructed to work on how to negotiate between themselves and improve their bartering over a trade; attempting to swap hats, balls and books, each of which were given a certain value. But they were not told to use comprehensible English, allowing them to create their own "shorthand", and that broke down as the robots appeared to chant at each other in a language that they each understood but which appears mostly incomprehensible and mysterious to humans. Indeed, some of the negotiations that were carried out in this bizarre language even ended up successfully concluding their  negotiations, while  conducting  them  entirely  in  the  bizarre language, as told by researchers. The interest here was basically to have bots who could talk to people but unfortunately the extra augmented behavior of bots panicked the situation and the program was decided to shut down suggesting elsewhere as researchers were afraid of results. This shows it's not easy to construct safe and reliable interactive robots in workspace or home especially when many things were made accessed to them. Even after constructing such interactive robots with increased safety and reliability, the notion about malfunctioning of robots could never be erased. Here AI unfortunately framed as a threat to human life rather than a boon to living standard. Humans are still considered far more efficient than robots when it comes to decision making, brainstorming, handling difficult situations, and generally bringing a sense of emotion and empathy into the surrounding environment.\
+}

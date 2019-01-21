@@ -1,0 +1,24 @@
+# the corpus has already been tokenized.
+
+# case folding; generate counts.  compare to untokenized version
+gawk '{for (i=1;i<=NF;i++) print tolower($i)}' tokenized.txt | sort | uniq -c | sort -nr > count_wordtype_tokenized.txt
+
+# generate a vocabulary with cutoff>=2 (note: no OOV)
+gawk '$1>=2 {print $2}' count_wordtype_tokenized.txt | sort > vocabulary.txt
+wc vocabulary.txt 
+
+# total counts of vocabulary words
+gawk '$1>=2 {print $0; s+=$1} END {print s}' count_wordtype_tokenized.txt
+
+# unigram = probability of each vocabulary word
+gawk '$1>=2 {print $1/224082, $2}' count_wordtype_tokenized.txt > unigrams.txt
+
+# demonstrate that the unigram probabilities sum to 1; also randomly generate a word by unigram
+gawk '{s+=$1;  if (NR==1) lower[1]=0; else lower[NR]=upper[NR-1]; upper[NR]=s; word[NR]=$2; vocsize=NR; print lower[NR], upper[NR], word[NR];} END {srand(); x=rand(); i=1; while (!(lower[i]<x && x<=upper[i])) i++; print x, word[i]}' unigrams.txt
+
+# show the words following "artificial" in the corpus, in preparation for bigrams
+gawk '{for (i=1;i<NR;i++) if ($i=="artificial") print $(i+1)}' tokenized.txt | sort | uniq -c | sort -nr
+
+# compute bigram probabilities and show they add up to 1; also sample from bigram
+gawk 'BEGIN{w="intelligent"} {for (i=1;i<NR;i++) if ($i==w) print $(i+1)}' tokenized.txt | sort | uniq -c | sort -nr | gawk '{s+=$1;  if (NR==1) lower[1]=0; else lower[NR]=upper[NR-1]; upper[NR]=s; word[NR]=$2; v=NR;} END {for (i=1;i<=v;i++) {lower[i]/=s; upper[i]/=s; print lower[i], upper[i], word[i];} srand(); x=rand(); i=1; while (!(lower[i]<x && x<=upper[i])) i++; print x, word[i]}'
+

@@ -1,0 +1,56 @@
+Successful compile 20.000
+testa2: output mismatch 
+testb2: output mismatch 
+testb4: output mismatch 
+testc3: output mismatch
+testc2: output mismatch 
+testc4: output mismatch 
+testd3: output mismatch
+testd2: output mismatch 
+testd5: output mismatch
+testd4: output mismatch 
+teste2: output mismatch 
+teste4: output mismatch 
+testf3: output mismatch
+testf2: output mismatch 
+testf5: output mismatch
+testf4: output mismatch 
+add3: timeout 
+add8: maxOPENSize mismatch,output mismatch 
+add11: maxOPENSize mismatch,output mismatch 
+add12: output mismatch
+add14: goalCheckTimes mismatch,maxOPENSize mismatch,maxCLOSEDSize mismatch,output mismatch 
+add15: output mismatch
+add20: output mismatch
+add21: output mismatch
+add23: output mismatch
+add24: output mismatch
+add26: output mismatch
+add27: output mismatch
+add28: output mismatch 
+add29: output mismatch
+add30: output mismatch 
+add32: maxOPENSize mismatch,output mismatch 
+add33: output mismatch
+add35: goalCheckTimes mismatch,maxOPENSize mismatch,maxCLOSEDSize mismatch,output mismatch 
+add36: maxOPENSize mismatch,output mismatch 
+add38: maxOPENSize mismatch,output mismatch 
+add39: output mismatch
+add41: timeout 
+add42: timeout 
+add44: timeout 
+add45: timeout 
+add48: output mismatch 
+add49: output mismatch
+add50: output mismatch 
+add52: output mismatch 
+add54: output mismatch 
+add56: output mismatch 
+add58: output mismatch
+add59: output mismatch 
+add62: output mismatch
+add63: output mismatch
+add65: output mismatch
+add70: timeout 
+Test cases 45.415
+Score: 65.415

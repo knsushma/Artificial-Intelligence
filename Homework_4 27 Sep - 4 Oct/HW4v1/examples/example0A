@@ -1,0 +1,15 @@
+java RingTreblecross 10 3 0 1 5
+Initial :  |   | X |   |   |   | X |   |   |   |   | 
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9|
+Choose Next Move: -1
+Board position out of range.
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9|
+Choose Next Move: 8
+Player  :  |   | X |   |   |   | X |   |   | X |   | 
+Computer:  | X | X |   |   |   | X |   |   | X |   | 
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9|
+Choose Next Move: 0
+Illegal move. Position already occupied.
+Index:     |  0|  1|  2|  3|  4|  5|  6|  7|  8|  9|
+Choose Next Move: 2
+Player  :  | X | X | X |   |   | X |   |   | X |   | 

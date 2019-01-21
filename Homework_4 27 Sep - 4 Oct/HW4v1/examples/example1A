@@ -1,0 +1,6 @@
+java RingTreblecross 6 4 1 2
+Min Node  | X |   | X |   |   |   |  Score: -1
+Min Node  |   | X | X |   |   |   |  Score:  1
+Min Node  |   |   | X | X |   |   |  Score:  1
+Min Node  |   |   | X |   | X |   |  Score: -1
+Min Node  |   |   | X |   |   | X |  Score:  1
